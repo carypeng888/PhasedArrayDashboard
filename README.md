@@ -1,7 +1,10 @@
 # 📡 Phased Array Antenna Visualization Dashboard
 
 A high-performance, interactive visualization dashboard for phased array antenna radiation patterns. This project utilizes the analytical **Dirichlet kernel** for ultra-fast array factor calculations, bypassing traditional brute-force summation. Combined with Matplotlib's optimized update mechanisms, it delivers a smooth, real-time 3D beam-scanning animation.
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fbd20a8b-6f4f-40b5-86bb-b8b0cbafdb9b" alt="Phased Array Dashboard Preview" width="850">
+  <p><i>Interactive Phased Array Antenna Dashboard</i></p>
+</div>
 ## ✨ Core Features
 
 *   **⚡ Ultra-Fast Analytical Algorithm**: Uses the closed-form Dirichlet kernel to compute the array factor, making calculations hundreds of times faster than traditional methods.
